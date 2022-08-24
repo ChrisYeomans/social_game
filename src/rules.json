@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "ruleText": "A rule 1",
+            "ruleImage": null
+        },
+        {
+            "ruleText": "A rule 2",
+            "ruleImage": null
+        },
+        {
+            "ruleText": "A rule 3",
+            "ruleImage": null
+        },
+        {
+            "ruleText": "A rule 4",
+            "ruleImage": null
+        },
+        {
+            "ruleText": "A rule 5",
+            "ruleImage": null
+        }
+    ]
+}
