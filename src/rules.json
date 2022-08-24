@@ -1,27 +1,52 @@
 {
     "rules": [
         {
-            "ruleText": "A rule 1",
+            "ruleText": "Everyone drink",
             "ruleImage": null,
             "numPlayers": 0
         },
         {
-            "ruleText": "A rule 2 @@P1@@ @@P2@@",
+            "ruleText": "@@P1@@ drink",
             "ruleImage": null,
-            "numPlayers": 2
-        },
-        {
-            "ruleText": "A rule 3 @@P1@@",
-            "ruleImage": 0,
             "numPlayers": 1
         },
         {
-            "ruleText": "A rule 4",
+            "ruleText": "Drink if you're drinking vodka",
             "ruleImage": null,
             "numPlayers": 0
         },
         {
-            "ruleText": "A rule 5",
+            "ruleText": "Drink if you're drinking beer",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you're drinking cider",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone but @@P1@@ drink",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@, @@P2@@ and @@P3@@ drink",
+            "ruleImage": null,
+            "numPlayers": 3
+        },
+        {
+            "ruleText": "Beards drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Corey drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you're corey",
             "ruleImage": null,
             "numPlayers": 0
         }
