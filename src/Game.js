@@ -9,17 +9,37 @@ export class Game extends React.Component {
         this.state = {
             currentRule: ruleList.pop(),
             playerNames: props.playerNames,
-            ruleList: ruleList
+            ruleList: ruleList,
+            currPlayerList: [],
+            outPlayerList: []
         };
         this.nextRule = this.nextRule.bind(this);
+        this.getShuffledPlayerList = this.getShuffledPlayerList.bind(this);
+    }
+
+    getShuffledPlayerList() {
+        return Array.from(this.state.playerNames.sort(function() {
+            return Math.random() - 0.5
+        }))
     }
 
     nextRule() {
-        let tempRules = this.state.ruleList
+        let tempRules = this.state.ruleList;
         let tempRule = tempRules.pop();
-        console.log(tempRules);
-        console.log(tempRule.ruleText);
-        this.setState({ currentRule: tempRule, ruleList: tempRules });
+        let currPlayerList = this.state.currPlayerList;
+        let outPlayerList = [];
+        for(let i=0;i<tempRule.numPlayers;i++) {
+            if (currPlayerList.length < 1) {
+                currPlayerList = this.getShuffledPlayerList()
+            }
+            outPlayerList.push(currPlayerList.pop());
+        }
+        this.setState({ 
+            currentRule: tempRule, 
+            ruleList: tempRules,
+            currPlayerList: currPlayerList,
+            outPlayerList: outPlayerList
+        });
         
     }
 
@@ -27,7 +47,7 @@ export class Game extends React.Component {
         console.log(`Rendering current rule: ${this.state.currentRule.ruleText}`);
         return  (
             <div key={this.state.currentRule.ruleText}>
-                <Card rule={this.state.currentRule} />
+                <Card rule={this.state.currentRule} playerNames={this.state.outPlayerList} />
                 <button onClick={this.nextRule}>Next</button>
             </div>
         );

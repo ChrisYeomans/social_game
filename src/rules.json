@@ -2,23 +2,28 @@
     "rules": [
         {
             "ruleText": "A rule 1",
-            "ruleImage": null
+            "ruleImage": null,
+            "numPlayers": 0
         },
         {
-            "ruleText": "A rule 2",
-            "ruleImage": null
+            "ruleText": "A rule 2 @@P1@@ @@P2@@",
+            "ruleImage": null,
+            "numPlayers": 2
         },
         {
-            "ruleText": "A rule 3",
-            "ruleImage": null
+            "ruleText": "A rule 3 @@P1@@",
+            "ruleImage": 0,
+            "numPlayers": 1
         },
         {
             "ruleText": "A rule 4",
-            "ruleImage": null
+            "ruleImage": null,
+            "numPlayers": 0
         },
         {
             "ruleText": "A rule 5",
-            "ruleImage": null
+            "ruleImage": null,
+            "numPlayers": 0
         }
     ]
 }
