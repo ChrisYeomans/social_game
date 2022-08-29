@@ -49,6 +49,187 @@
             "ruleText": "Drink if you're corey",
             "ruleImage": null,
             "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone drink if its passed midnight",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@ ban a word, anyone who says it must drink",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "Rule 1: @@P1@@ make a new rule",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "Dominos starting with @@P1@@",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "Whoever left the room last must drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Smokers drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Stoners drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone drink for how many countries you have been to",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone drink for how many siblings you have",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Women drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Men drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "4 is FLOOR",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Never have I ever",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "7 is HEAVEN",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@ if you can name the song currently playing give out a drink otherwise drink",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "Anyone who has eaten since the start of the game must drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@ pick a mate",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@ give out 3 drinks",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@ take a shot",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@ finish your drink",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "The next player who wants to leave the room must finish their drink first",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone drink for every piercing you have",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "The most formally dressed player drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Anyone who has spilt a drink tonight must drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Funky waterfall starting with @@P1@@",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "From now on everytime someone swears they must take a drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "No more using names, drink for every time you do",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone drink anytime @@P1@@ speaks for 5 turns",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@ and @@P2@@ play rock, paper, scissors, loser drinks",
+            "ruleImage": null,
+            "numPlayers": 2
+        },
+        {
+            "ruleText": "@@P1@@ and @@P2@@ drink",
+            "ruleImage": null,
+            "numPlayers": 2
+        },
+        {
+            "ruleText": "On 3 everyone point at someone else, the person who gets fingered the most drinks",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone look down, on 3 everyone look up at someone else, anyone who is looking at each other drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if your wearing black, its not a fucking funerzl",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone but @@P1@@ close their eyes. @@P1@@ then guesses everyone eye colour and drinks for every one they get wrong",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "Drink if you're employed",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you're unememployed",
+            "ruleImage": null,
+            "numPlayers": 0
         }
+
     ]
 }
