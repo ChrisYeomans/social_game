@@ -1,5 +1,5 @@
-import { GameRules } from './GameRules'
-import { Card } from './Card'
+import { RuleCard } from './RuleCard'
+import Button from 'react-bootstrap/Button';
 const React = require('react');
 
 export class Game extends React.Component {
@@ -11,8 +11,10 @@ export class Game extends React.Component {
             playerNames: props.playerNames,
             ruleList: ruleList,
             currPlayerList: [],
-            outPlayerList: []
+            outPlayerList: props.playerNames
         };
+
+        console.log(this.state.playerNames)
         this.nextRule = this.nextRule.bind(this);
         this.getShuffledPlayerList = this.getShuffledPlayerList.bind(this);
     }
@@ -45,10 +47,11 @@ export class Game extends React.Component {
 
     render() {
         console.log(`Rendering current rule: ${this.state.currentRule.ruleText}`);
+        console.log(`nextRule ${this.state.currPlayerList}`)
         return  (
             <div key={this.state.currentRule.ruleText}>
-                <Card rule={this.state.currentRule} playerNames={this.state.outPlayerList} />
-                <button onClick={this.nextRule}>Next</button>
+                <RuleCard rule={this.state.currentRule} playerNames={this.state.outPlayerList} />
+                <Button onClick={this.nextRule}>Next</Button>
             </div>
         );
     }
