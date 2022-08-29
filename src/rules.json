@@ -229,7 +229,121 @@
             "ruleText": "Drink if you're unememployed",
             "ruleImage": null,
             "numPlayers": 0
+        },
+        {
+            "ruleText": "21 game, count up a maximum of 3 numbers each the person who gets 21 has to drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@ tell @@P2@@ a joke, if its funny everyone drinks otherwise @@P1@@ down your drink",
+            "ruleImage": null,
+            "numPlayers": 2
+        },
+        {
+            "ruleText": "@@P1@@ read out your last text or take a shot",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "Everyone vote the drunkest player they must drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Everyone vote the most sober player they must do a shot",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@, @@P2@@ must get/make you your drinks for the rest of the game",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you have dyed hair",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you're a slut",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you've ever had plastic surgery",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Corey drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you put your toaster in the cupboard",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you're a Catholic",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@ do a slut drop and drink",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@ gets a paranoia from @@P2@@",
+            "ruleImage": null,
+            "numPlayers": 2
+        },
+        {
+            "ruleText": "Drink if you're lgbt",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Drink if you're a dissapointment",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "Don't drink if you're not @@P1@@",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "If you can't read this don't drink",
+            "ruleImage": null,
+            "numPlayers": 0
+        },
+        {
+            "ruleText": "@@P1@@ and @@P2@@, you have 5 sips to give out, decide amongst yourselves who to give them to",
+            "ruleImage": null,
+            "numPlayers": 2
+        },
+        {
+            "ruleText": "@@P1@@ give @@P2@@ a back handed compliment and then both drink, cheers!",
+            "ruleImage": null,
+            "numPlayers": 2
+        },
+        {
+            "ruleText": "@@P1@@, drink a mixture of @@P2@@'s and @@P3@@'s drinks",
+            "ruleImage": null,
+            "numPlayers": 3
+        },
+        {
+            "ruleText": "@@P1@@ give a motivational toast to the night then down your drink",
+            "ruleImage": null,
+            "numPlayers": 1
+        },
+        {
+            "ruleText": "@@P1@@ do 2 truchs and a lie, everyone says what they think the lie is and if you get it wrong drink",
+            "ruleImage": null,
+            "numPlayers": 1
         }
-
     ]
 }
